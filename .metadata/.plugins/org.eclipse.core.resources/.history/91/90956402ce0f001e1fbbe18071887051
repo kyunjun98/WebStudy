@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style type="text/css">
+	table, td, tr {
+		border: 1px solid;
+		
+	}
+</style>
+</head>
+<body>
+<!-- 
+	열합치기(좌우): colspan = "합쳐질 숫자"
+	가장 왼쪽만 살아 남아서 합치기를 한다.
+	행합치기(상하): rowspan = "합쳐질 숫자"
+	가장 윗쪽만 살아 남아서 합치기를 한다.
+ -->
+ 	<h2>열 합치기(colspan)</h2>
+ 	<table>
+ 		<thead>
+ 			<tr><th colspan="2"> 방이름</th><th> 방이름</th><th> 방이름</th><th> 방이름</th></tr>
+ 		</thead>
+ 		<tbody>
+ 			<tr><td >하이</td><td >하이</td><td >하이</td><td >하이</td></tr>
+ 			<tr><td >하이</td><td >하이</td><td >하이</td><td >하이</td></tr>
+ 			<tr><td >하이</td><td >하이</td><td >하이</td><td >하이</td></tr>
+ 			<tr><td >하이</td><td >하이</td><td >하이</td><td >하이</td></tr>
+ 		</tbody>
+ 		<tfoot>
+ 			<tr><td >하이</td><td >하이</td><td >하이</td><td >하이</td></tr>
+ 		</tfoot>
+ 	</table>
+</body>
+</html>

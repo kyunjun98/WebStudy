@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>a 태그</title>
+</head>
+<body>
+<!-- 
+	a: 링크태그
+	<a href="url" target="value"> 텍스트 </a>
+ -->
+</body>
+</html>

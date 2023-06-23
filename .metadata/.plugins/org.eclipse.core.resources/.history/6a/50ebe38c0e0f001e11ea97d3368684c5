@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>img 태그</title>
+</head>
+<body>
+<!-- 
+	<img src="url" alt="그림 대신 나오는 문자">
+ -->
+</body>
+</html>

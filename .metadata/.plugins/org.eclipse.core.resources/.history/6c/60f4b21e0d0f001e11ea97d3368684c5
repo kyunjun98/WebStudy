@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>a 태그 버튼</title>
+<style type="text/css">
+a:link, a:visited {
+	background-color: tomato;
+	color: white;
+	text-decoration: none;
+	padding: 15px;
+}
+
+a:hover {
+	background-color: skyblue;
+	padding: 20px;
+}
+/*
+	여백: 안쪽여백(padding), 바깥쪽 여백(margin)이 존재
+	padding: 상 우 하 좌
+	padding: 상하 좌우
+	padding: 상하좌우
+*/
+
+</style>
+</head>
+<body>
+	<h2>Link Button</h2>
+	<p>이것은 a링크를 이용한 버튼</p>
+	<a href="#">링크 A</a>
+	<a href="#">링크 B</a>
+	<a href="#">링크 C</a>
+</body>
+</html>

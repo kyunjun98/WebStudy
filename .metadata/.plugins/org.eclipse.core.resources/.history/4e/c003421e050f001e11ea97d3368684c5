@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>a 태그</title>
+</head>
+<body>
+<!-- 
+	a: 링크태그
+	<a href="url" target="value"> 텍스트 </a>
+	- href = #은 현재문서를 뜻한다.
+	- target = "_blank" (새창)
+			   "_self"(default, 자기자신)
+			   "_parent"(부모창)
+			   name(같은 페이지에서 name을 지정한 위치를 말한다)
+ -->
+ <a href="https://www.naver.com">Naver</a>
+ <a href="https://www.daum.net">Daum</a>
+ <a href="https://www.google.com">Google</a>
+ <hr>
+ <a href="https://www.naver.com" target="_blank">Naver</a>
+ <a href="https://www.daum.net" target="_blank">Daum</a>
+ <a href="https://www.google.com" target="_blank">Google</a>
+ <hr>
+ 
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>a 태그 버튼</title>
+<style type="text/css">
+a:link, a:visited {
+	background-color: tomato;
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	
+}
+</style>
+</head>
+<body>
+	<h2>Link Button</h2>
+	<p>이것은 a링크를 이용한 버튼</p>
+	<a href="#">링크 A</a>
+	<a href="#">링크 B</a>
+	<a href="#">링크 C</a>
+</body>
+</html>

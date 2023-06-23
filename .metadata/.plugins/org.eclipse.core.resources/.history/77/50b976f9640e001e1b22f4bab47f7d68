@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+hello html
+
+<!-- html 주석: Ctrl + Shift + / -->
+<!-- 
+	HTML: 웹 페이지 생성, 내용표시
+	CSS : 웹 페이지 내용 및 전체 화면의 모양을 꾸미기
+	JavaScript(JS): 웹 페이지의 동작, 기능을 부여하는 것
+	HTML: HyperTextMarkupLanguage
+	HyperText: 단순한 텍스트를 넘어서 웹 페이지의 특정한 부분과
+			   연결할 수 있는 기능을 가진 텍스트, 링크라고도 한다.
+	MarkupLanguage: 정보를 구조적, 계층적으로 표현 가능한 언어
+					계층적 표현이란 부모, 자식, 형제의 구조를 말한다. Ex) 족보
+	HTML의 구성요소는 태그로 이루어져 있다.(태그들의 집합이다)
+	태그란 웹 브라우저가 화면에 해당 내용을 어떻게 표시하는지를 정의 해 놓은 것
+		- 요소(Element): <시작태그> 화면에 보이는 글자(텍스트) <끝태그>
+						Empty 태그: 끝태그가 존재하지 않는 태그
+ -->
+</body>
+</html>
